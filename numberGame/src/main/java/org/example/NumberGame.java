@@ -2,7 +2,7 @@ package org.example;
 import java.util.Scanner;
 import java.util.Random;
 
-public class Main {
+public class NumberGame {
 
     /**
      *
